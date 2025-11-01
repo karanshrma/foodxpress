@@ -14,6 +14,7 @@ This Flutter-based mini food delivery app simulates a typical food ordering expe
 - **Food List:** Displays at least 6 food items with:
     - **Image**
     - **Name**
+    - **Description**
     - **Price**
     - **Add Button:** To add items to the cart
 
@@ -62,7 +63,7 @@ Watch the walkthrough of the app here:
 ---
 
 ## Code Repository
-The entire implementation of the app is available [here](your-git-repo-link).  
+The entire implementation of the app is available [here](https://github.com/karanshrma/foodxpress).  
 (Replace with your actual GitHub or GitLab repository URL)
 
 ---
